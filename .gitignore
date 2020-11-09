@@ -1,4 +1,4 @@
-mvn*
 target
 *.iml
 *.ipr
+.idea
