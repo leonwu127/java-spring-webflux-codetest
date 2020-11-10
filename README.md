@@ -1,5 +1,19 @@
 # Qudini Backend Software Engineer Code Test
 
+## To Build
+#### `mvn clean install`
+
+## To Run
+#### `./mvnw spring-boot:run`
+
+## To Load Test
+#### You can use the Sort_Customer_POST_request.jmx to load test in JMeter
+
+## Improve
+- Add logging feature.
+- Add Json validation feature.
+
+
 **Please _fork_ this repository rather than creating a PR.**
 
 To test how quickly you can pick up a new project and follow requirements, we ask
